@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
-![Tictactoe Game](./public/screenshot-01.PNG)
-![Tictactoe Game](./public/screenshot-02.PNG)
+<img src="./public/screenshot-01.PNG" width="750"/>
+<img src="./public/screenshot-02.PNG" width="750"/>
 
 ## Available Scripts
 
