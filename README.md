@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+![Tictactoe Game](./public/screenshot-01.PNG)
+![Tictactoe Game](./public/screenshot-02.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
